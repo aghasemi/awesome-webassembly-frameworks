@@ -1,5 +1,5 @@
-# awesome-webassembly-frameworks
-A curated list of frameworks for writing front-end web application in languages other than JavaScript (through WebAssembly)
+# Awesome (mostly) WebAssembly Frameworks
+A curated list of frameworks for writing front-end web application in languages other than JavaScript (mostly through WebAssembly).
 
 ## Programming Languages
 
